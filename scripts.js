@@ -5,7 +5,7 @@ var _formstruct = {
     buttonTextColor: 'black',
     buttonBgColor: 'FFDB1A',
     position: 'right',
-    boxWidth: 600,
+    boxWidth: 450,
     verticalOffset: 90,
     baseUrl: 'https://formstruct.ru/'
 };
